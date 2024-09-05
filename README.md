@@ -12,7 +12,7 @@ Welcome to my portfolio! This is a personal website showcasing my work, skills, 
 
 ## Live Demo
 
-You can view the live version of the portfolio website 
+You can view the live version of the portfolio website [here]([https://faizan-ahmad5.github.io/portfolio/](https://faizan-ahmad5.github.io/portfolio-using-tailwind/)).
 
 ## Technologies Used
 
